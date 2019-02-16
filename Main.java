@@ -4,6 +4,11 @@ public class Main {
 
     System.out.println("Hello World!");
 
+    int x = 5;
+    int y = 6;
+
+    int result = 5 + 6;
+
   }
 
 }
