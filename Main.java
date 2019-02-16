@@ -7,7 +7,7 @@ public class Main {
     int x = 5;
     int y = 6;
 
-    int result = sum(x, y);
+    int result = 5 + 6;
     System.out.println("Rseult: " + result);
 
   }
