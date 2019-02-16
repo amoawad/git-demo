@@ -4,10 +4,10 @@ public class Main {
 
     System.out.println("Hello World!");
 
-    int x = 5;
-    int y = 6;
+    int a = 5;
+    int b = 6;
 
-    int result = sum(x, y);
+    int result = sum(a, b);
     System.out.println("Rseult: " + result);
 
   }
