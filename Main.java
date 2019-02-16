@@ -8,6 +8,7 @@ public class Main {
     int y = 6;
 
     int result = 5 + 6;
+    SYstem.out.println("Rseult: " + result);
 
   }
 
